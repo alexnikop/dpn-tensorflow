@@ -20,7 +20,7 @@ model.load_weights('{}.h5'.format(model_type))
 Model    |             Weights
 :--------|:-----------------------------------:
 DPN-68   |https://drive.google.com/file/d/1AYeFy4JZVINqv8MOyg9CwGPT9-f3jFI3/view
-DPN-92   |https://drive.google.com/file/d/1AYeFy4JZVINqv8MOyg9CwGPT9-f3jFI3/view
-DPN-98   |https://drive.google.com/file/d/1AYeFy4JZVINqv8MOyg9CwGPT9-f3jFI3/view
-DPN-107  |https://drive.google.com/file/d/1AYeFy4JZVINqv8MOyg9CwGPT9-f3jFI3/view
-DPN-131  |https://drive.google.com/file/d/1AYeFy4JZVINqv8MOyg9CwGPT9-f3jFI3/view
+DPN-92   |https://drive.google.com/file/d/1Ug_rQhxqa9x8vCoaTaLL0geTqbyHEbNk/view
+DPN-98   |https://drive.google.com/file/d/1Zbrngvbqq6kvop_BCu72Y-BC0DNPtHuB/view
+DPN-107  |
+DPN-131  |
