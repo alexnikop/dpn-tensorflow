@@ -10,9 +10,9 @@ This repository contains an implementation of Dual-Path-Networks ((https://arxiv
 
 # How to load weights example
 
-'''
+```
 model_type = 'dpn92'
 model = dpn_model(input_shape=(224, 224, 3), model_type=model_type)
 model.load_weights('{}.h5'.format(model_type))
-'''
+```
 
